@@ -13,8 +13,8 @@ public class ListToArray {
     /**
      * List를 Array로 변환하는 함수
      * 
-     * @param inputList
-     * @param numOrStr
+     * @param inputList 변환 시킬 List
+     * @param numOrStr 숫자/문자인지 확인하기 위한 변수
      * @return 변환된 배열
      * 
      * @author yblee
